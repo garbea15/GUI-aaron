@@ -1,6 +1,6 @@
 class Tester {
 
-  public static void main (Interger {} arduino){
-    System.in.print("hello");
+  public static void main (String[] args){
+    System.out.print("hello");
     }
 }
